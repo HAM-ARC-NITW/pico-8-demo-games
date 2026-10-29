@@ -8,8 +8,10 @@
 
   https://github.com/user-attachments/assets/b6a21f8a-6b9b-4118-aa21-ffeae72009d4
 
-- [Wraith](./placeholder) by [Jibendra Kumar Garai](./placeholder)
+- [Wraith](./games/wraith.p8) by [Jibendra Kumar Garai](https://github.com/Galaxyyus)
 
   https://github.com/user-attachments/assets/899b7560-7d59-4314-a5d5-2357283b1ad8
 
-- [PLACEHOLDER](./placeholder) by [Ashutosh Tiwari](./placeholder)
+- [My Future Self](./games/my_future_self.p8) by [Ashutosh Tiwari](https://github.com/1shu1iwari-crypto)
+
+  https://github.com/user-attachments/assets/215ffb79-62f2-49e5-89b7-6c328af9f959
