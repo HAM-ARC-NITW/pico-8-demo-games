@@ -4,7 +4,7 @@
 
   https://github.com/user-attachments/assets/ca8ac15b-ec0b-4ec1-9dcb-d64671ed5eb8
 
-- [Lusty Dusty](./games/lustydusty.p8) by [Mradul Pal](https://github.com/eveniota)
+- [LustyDusty](./games/lustydusty.p8) by [Mradul Pal](https://github.com/eveniota)
 
   https://github.com/user-attachments/assets/b6a21f8a-6b9b-4118-aa21-ffeae72009d4
 
@@ -14,4 +14,4 @@
 
 - [My Future Self](./games/my_future_self.p8) by [Ashutosh Tiwari](https://github.com/1shu1iwari-crypto)
 
-  https://github.com/user-attachments/assets/215ffb79-62f2-49e5-89b7-6c328af9f959
+  https://github.com/user-attachments/assets/8d38e364-c069-4496-b81f-ee199d2e4746
